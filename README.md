@@ -1,9 +1,8 @@
-The goal of this coding exam is to quickly get you off the ground with **Lists and Keys**.
 
-### Refer to the image below:
 
 <br/>
-PROJECT URL : https://mygreetin4lang.ccbp.tech/
+ 
+ **`PROJECT URL`** : https://mygreetin4lang.ccbp.tech/
 <br/>
 
 ### Design Files
