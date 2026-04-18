@@ -1,6 +1,4 @@
 
-
-<br/>
  
  **`PROJECT URL`** : https://mygreetin4lang.ccbp.tech/
 <br/>
@@ -23,39 +21,9 @@
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
 
-<details>
-<summary>Functionality to be added</summary>
-<br/>
 
-The app must have the following functionalities
 
-- Initially, the **English** language button should be active and the **English** greeting image should be displayed.
-- When the user clicks on a language button, then the corresponding greeting image should be displayed.
-- The `App` component consists of the `languageGreetingsList`. It consists of a list of image details objects with the following properties in each object
-
-  | Key          | Data Type |
-  | ------------ | --------- |
-  | id           | Number    |
-  | imageUrl     | String    |
-  | buttonText   | String    |
-  | imageAltText | String    |
-
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instruction is required for the tests to pass**
-
-- The image should have the alt attribute value as the key `imageAltText` from `languageGreetingsList` provided
-
-</details>
 
 ### Resources
 
